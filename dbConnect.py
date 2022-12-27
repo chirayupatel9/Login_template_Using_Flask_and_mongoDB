@@ -2,7 +2,7 @@ import pymongo
 
 # DB connection config
 username = "admin"
-password = "YaLtxqzWBseXTqQc"
+password = " "
 
 # DB URL formed in URI
 URI = "mongodb+srv://" + username + ":" + password + "@cluster0.gnwyvcr.mongodb.net/?retryWrites=true&w=majority"
